@@ -1,0 +1,16 @@
+2023-08-06 02:17:11.586544 - Initialized conversion of CBT217
+2023-08-06 02:17:11.725829 - Received CBT.V505.FILE217.PDS from FILE217.XMI 
+2023-08-06 02:17:11.727952 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/$$$#DATE
+2023-08-06 02:17:11.729006 - Found $ASM.jcl (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/$ASM
+2023-08-06 02:17:11.729898 - Found $DOC.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/$DOC
+2023-08-06 02:17:11.730773 - Found $REQU.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/$REQU
+2023-08-06 02:17:11.731658 - Found @FILE217.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/@FILE217
+2023-08-06 02:17:11.732658 - Found CBTJCL.jcl (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/CBTJCL
+2023-08-06 02:17:11.733541 - Found CLIST.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/CLIST
+2023-08-06 02:17:11.734560 - Found DISASM.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/DISASM
+2023-08-06 02:17:11.735550 - Found DISASM1.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/DISASM1
+2023-08-06 02:17:11.736520 - Found DISASM2.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/DISASM2
+2023-08-06 02:17:11.737455 - Found DISASM3A.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/DISASM3A
+2023-08-06 02:17:11.738414 - Found DISASM3B.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/DISASM3B
+2023-08-06 02:17:11.739312 - Found REQU.txt (text/plain) in CBT.V505.FILE217.PDS, moved to PDS/REQU
+2023-08-06 02:17:11.739322 - Found SVLNK.bin containing application/octet-stream, moved to PDS/SVLNK
