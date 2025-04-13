@@ -1,0 +1,15 @@
+2025-04-13 14:48:50.389529 - Received CBT.V508.FILE217.PDS from FILE217.XMI 
+2025-04-13 14:48:50.390566 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/$$$#DATE
+2025-04-13 14:48:50.390656 - Found $ASM.jcl (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/$ASM
+2025-04-13 14:48:50.390736 - Found $DOC.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/$DOC
+2025-04-13 14:48:50.390801 - Found $REQU.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/$REQU
+2025-04-13 14:48:50.390860 - Found @FILE217.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/@FILE217
+2025-04-13 14:48:50.390928 - Found CBTJCL.jcl (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/CBTJCL
+2025-04-13 14:48:50.390993 - Found CLIST.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/CLIST
+2025-04-13 14:48:50.391106 - Found DISASM.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/DISASM
+2025-04-13 14:48:50.391224 - Found DISASM1.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/DISASM1
+2025-04-13 14:48:50.391382 - Found DISASM2.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/DISASM2
+2025-04-13 14:48:50.391459 - Found DISASM3A.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/DISASM3A
+2025-04-13 14:48:50.391525 - Found DISASM3B.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/DISASM3B
+2025-04-13 14:48:50.391590 - Found REQU.txt (text/plain) in CBT.V508.FILE217.PDS, moved to PDS/REQU
+2025-04-13 14:48:50.391654 - Found SVLNK.bin (application/octet-stream) in CBT.V508.FILE217.PDS, moved to PDS/SVLNK
